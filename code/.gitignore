@@ -3,7 +3,7 @@
 *.bin
 *.safetensors
 models/
-
+qwen3-8b-instruct-q4_k_m.gguf
 # Python
 __pycache__/
 *.pyc
