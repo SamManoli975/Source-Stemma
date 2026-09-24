@@ -1,0 +1,13 @@
+﻿# Model files (too large for GitHub)
+*.gguf
+*.bin
+*.safetensors
+models/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Perplexica (embedded repo)
+code/Perplexica/
